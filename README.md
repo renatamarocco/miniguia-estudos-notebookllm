@@ -1,5 +1,5 @@
-# miniguia-estudos-notebookllm
-Aplicando os conhecimentos do Bootcamp da DIO para criação de um guia de estudos para um profissional de Qualidade de Software no notebookllm
+# miniguia-estudos-notebooklm
+Aplicando os conhecimentos do Bootcamp da DIO para criação de um guia de estudos para um profissional de Qualidade de Software no notebooklm
 1) Contexto e Objetivos
    Sou uma profissional da área de TI com mais de 20 anos de experiencia em desenvolvimento de software.Já trabalhei como tester, analista de requisitos, desenvolvedora, implantação de sistemas, QA, lider de qualidade, coordenadora de desenvolvimento e gerente de desenvolvimento. Recentemente aceitei o desafio de liderar um time de qualidade formado por 50 profissionais. Como faz algum tempo que estava fora da área de qualidade, preciso me atualizar. O objetivo desse desafio é relembrar a teoria da garantia da qualidade e me atualizar com novas e boas práticas do mercado para essa área como, por exemplo, automação de testes em geral, processo de testes para garantia de qualidade de uma solução que usa IA Generativa, entre outros.
 2) Curadoria da Fontes
