@@ -22,6 +22,11 @@ Videos
    https://www.youtube.com/watch?v=Y_j8jHDwNII
    https://www.youtube.com/watch?v=kpqxf1z4Epw
    https://www.youtube.com/watch?v=u3W0Ukg-E4M
-Texto
    https://malenezi.github.io/malenezi/SE401/Books/114-the-art-of-software-testing-3-edition.pdf
+   Além dessas fontes solicitei ao notebookllm uma pesquisa profunda (deep research) de outras fontes relacionadas a CTFL, automação de testes de software e como garantir qualidade de uma aplicação cuja solução utiliza inteligencia artifiical generativa
+
+   Prompts:
+   Como gerente de qualidade preciso fazer o onboarding de alguns estagiários que estarão integrando ao grupo. Quais fundamentos de testes devo apresentar. Poderia fazer uma lista explicando o que é cada um desses fundamentos de forma simples de entender, por favor?
+   Senti falta da piramide de testes. Poderia incluir esse conteudo, por favor? Lembre-se de explicar de maneira simples.
+   
    
