@@ -1,5 +1,5 @@
 # miniguia-estudos-notebookllm
-Aplicando os conhecimentos do Bootcamp da DIO para criação de um guia de estudos para um profissional de Qualidade de Software
+Aplicando os conhecimentos do Bootcamp da DIO para criação de um guia de estudos para um profissional de Qualidade de Software no notebookllm
 1) Contexto e Objetivos
    Sou uma profissional da área de TI com mais de 20 anos de experiencia em desenvolvimento de software.Já trabalhei como tester, analista de requisitos, desenvolvedora, implantação de sistemas, QA, lider de qualidade, coordenadora de desenvolvimento e gerente de desenvolvimento. Recentemente aceitei o desafio de liderar um time de qualidade formado por 50 profissionais. Como faz algum tempo que estava fora da área de qualidade, preciso me atualizar. O objetivo desse desafio é relembrar a teoria da garantia da qualidade e me atualizar com novas e boas práticas do mercado para essa área como, por exemplo, automação de testes em geral, processo de testes para garantia de qualidade de uma solução que usa IA Generativa, entre outros.
 2) Curadoria da Fontes
@@ -23,7 +23,7 @@ Videos
    https://www.youtube.com/watch?v=kpqxf1z4Epw
    https://www.youtube.com/watch?v=u3W0Ukg-E4M
    https://malenezi.github.io/malenezi/SE401/Books/114-the-art-of-software-testing-3-edition.pdf
-   Além dessas fontes solicitei ao notebookllm uma pesquisa profunda (deep research) de outras fontes relacionadas a CTFL, automação de testes de software e como garantir qualidade de uma aplicação cuja solução utiliza inteligencia artifiical generativa
+   Além dessas fontes solicitei ao notebookllm uma pesquisa profunda (deep research) de outras fontes relacionadas a CTFL, automação de testes de software e como garantir qualidade de uma aplicação cuja solução utiliza inteligencia artificial generativa
 
    Prompts:
    Como gerente de qualidade preciso fazer o onboarding de alguns estagiários que estarão integrando ao grupo. Quais fundamentos de testes devo apresentar. Poderia fazer uma lista explicando o que é cada um desses fundamentos de forma simples de entender, por favor?
